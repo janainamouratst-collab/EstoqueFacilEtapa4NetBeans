@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="EstoqueFacilEtapa4NetBeans" default="default" basedir=".">
+    <description>Projeto NetBeans Estoque Fácil Etapa 4.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>

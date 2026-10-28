@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="EstoqueFacilEtapa4NetBeans-impl" default="default" basedir="..">
+    <target name="default">
+        <mkdir dir="${build.classes.dir}"/>
+        <javac srcdir="${src.dir}" destdir="${build.classes.dir}" includeantruntime="false" encoding="${source.encoding}" source="${javac.source}" target="${javac.target}"/>
+        <java classname="${main.class}" fork="true" classpath="${build.classes.dir}:${javac.classpath}"/>
+    </target>
+</project>
