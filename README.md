@@ -32,7 +32,7 @@ O Estoque Fácil é um sistema desktop desenvolvido para auxiliar pequenas e mé
 - Registro de saída de estoque.
 - Relatório de inventário.
 - Consulta de produtos com estoque baixo.
-- Consulta de produtos com validade próxima.
+- Consulta de produtos com validade próxima
 
 ## Banco de dados
 
